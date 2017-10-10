@@ -13,3 +13,5 @@ class Dog
 end
 
 snoopy = Dog.new
+snoopy.name = Snoopy
+snoopy.breed = Beagle
