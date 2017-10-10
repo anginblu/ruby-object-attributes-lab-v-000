@@ -13,6 +13,7 @@ class Dog
   def breed
   @breed
 end
+end
 
 snoopy = Dog.new
 snoopy.name = Snoopy
