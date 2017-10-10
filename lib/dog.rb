@@ -11,3 +11,5 @@ class Dog
   def @breed
   breed
 end
+
+snoopy = Dog.new
