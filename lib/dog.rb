@@ -15,7 +15,3 @@ end
   @breed
 end
 end
-
-snoopy = Dog.new
-snoopy.name = Snoopy
-snoopy.breed = Beagle
